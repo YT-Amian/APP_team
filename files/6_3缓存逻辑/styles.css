@@ -1,0 +1,38 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:361px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u5390_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:335px;
+  height:131px;
+}
+#u5390 {
+  position:absolute;
+  left:26px;
+  top:29px;
+  width:335px;
+  height:131px;
+  font-family:'楷体 Bold', '楷体';
+  font-style:normal;
+  font-size:18px;
+}
+#u5391 {
+  position:absolute;
+  left:0px;
+  top:13px;
+  width:335px;
+  word-wrap:break-word;
+}
